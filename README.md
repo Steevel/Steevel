@@ -6,4 +6,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Steevel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steevel&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Steevel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steevel&show_icons=true&theme=algolia)](https://github.com/Steevel)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steevel&theme=algolia&layout=compact)](https://github.com/Steevel)
