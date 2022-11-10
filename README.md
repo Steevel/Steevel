@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steevel Sharon Salis</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Steevel&label=Profile%20views&color=129e00&style=plastic" alt="Steevel" /> </p>
 
-- 👋 Hi, I’m @Steevel_
+- 👋 Hi, I’m Steevel
 - 👀 I’m interested in *Frontend Web Development*
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking for a job opportunity in *Frontend Development*
