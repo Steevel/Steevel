@@ -13,4 +13,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steevel&theme=algolia&layout=compact)](https://github.com/Steevel) 
 
-<a href="http://www.github.com/Steevel"><img src="https://activity-graph.herokuapp.com/graph?username=Steevel&bg_color=0f172a&color=ffffff&line=14b8a6&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Steevel"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Steevel&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
